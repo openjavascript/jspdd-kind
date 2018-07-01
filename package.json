@@ -1,6 +1,6 @@
 {
   "name": "jspdd-kind",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/kind.js",
   "scripts": {
@@ -39,5 +39,4 @@
     "rimraf": "^2.3.4",
     "webpack": "<=1.12.12"
   }
-
 }
