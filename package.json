@@ -2,7 +2,7 @@
   "name": "jspdd-kind",
   "version": "1.0.3",
   "description": "",
-  "main": "dist/kind.js",
+  "main": "src/kind.js",
   "scripts": {
     "lint": "eslint src test --fix",
     "dev": "webpack --config webpack/webpack.config.development.js --watch",
