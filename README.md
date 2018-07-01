@@ -1,1 +1,0 @@
-# jspdd-kind
